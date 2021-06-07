@@ -46304,7 +46304,7 @@ var $async$na=P.a1(function(a,b){if(a===1)return P.a4(b,r)
 while(true)switch(s){case 0:B.ach()
 P.je("planning the response")
 s=2
-return P.a8(q.f.nr("GET",P.rQ("http://34.127.108.2/a/test"),null),$async$na)
+return P.a8(q.f.nr("GET",P.rQ("https://swapi.dev/api/people/3/"),null),$async$na)
 case 2:p=b
 P.je("status code = "+p.b+" response data = "+B.a7j(U.a6u(p.e).c.a.i(0,"charset")).cc(0,p.x))
 q.aS(new F.Wx(q,p))
